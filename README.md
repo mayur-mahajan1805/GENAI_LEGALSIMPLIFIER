@@ -51,7 +51,7 @@ Before running this application, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone <your-github-repo-url>
+   git clone https://github.com/mayur-mahajan1805/GENAI_LEGALSIMPLIFIER.git
    cd LegalSimplifier
    ```
 
