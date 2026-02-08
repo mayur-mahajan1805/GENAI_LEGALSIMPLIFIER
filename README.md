@@ -176,10 +176,10 @@ This project is licensed under the ISC License - see the package.json files for 
 
 ## 🙏 Acknowledgments
 
-- Built for a GENAI by GOOGLE competition
-- Powered by OpenAI, Google Cloud AI, and other modern AI services
-- Icons provided by Lucide React
-- UI components inspired by modern design systems
+- Built for a GENAI by GOOGLE competition.
+- Powered by OpenAI, Google Cloud AI, and other modern AI services.
+- Icons provided by Lucide React.
+- UI components inspired by modern design systems.
 
 ## 📞 Support
 
